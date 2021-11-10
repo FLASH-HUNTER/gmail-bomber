@@ -16,7 +16,7 @@ apt upgrade
 apt update
 pkg install git
 pkg install python2
-git clone https://github.com/FLASH-HANTER/gmail-bomber.git
+git clone https://github.com/FLASH-HUNTER/gmail-bomber.git
 ```
 
 #### Run
